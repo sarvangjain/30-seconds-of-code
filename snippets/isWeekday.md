@@ -15,5 +15,5 @@ const isWeekday = (t = new Date()) => {
 ```
 
 ```js
-isWeekday(); // true (if current date is 2019-07-19)
+isWeekday('2019-07-19'); // true
 ```
